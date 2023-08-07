@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parker</h1>
+
 - 🔭 I’m currently working on **a maze algorithm visualizer written in C++ using SDL2 and imgui**
 
 - 🌱 I’m currently learning **C++ and Reverse Engineering**
